@@ -11,10 +11,14 @@
             "id": "aece0614b017ddcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "base/0_course/笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "笔记"
             }
           }
         ]
@@ -79,8 +83,23 @@
               "icon": "lucide-clock",
               "title": "Web history"
             }
+          },
+          {
+            "id": "8322b8b297df1528",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://kimi.moonshot.cn/chat/cvn1tmbmtof00vhpn790",
+                "title": "图片内容提取与分析 - Kimi.ai",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "图片内容提取与分析 - Kimi.ai"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -95,17 +114,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8322b8b297df1528",
+            "id": "3da81532381ff8e1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://kimi.moonshot.cn/chat/cvn1tmbmtof00vhpn790",
-                "title": "图片内容提取与Obsidian Markdown格式转换 - Kimi.ai",
-                "mode": "webview"
+                "file": "base/0_course/lecture notes/base.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "图片内容提取与Obsidian Markdown格式转换 - Kimi.ai"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "base"
             }
           },
           {
@@ -114,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base/0_course/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "笔记 的反向链接列表"
             }
           },
           {
@@ -132,11 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base/0_course/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "笔记 的出链列表"
             }
           },
           {
@@ -160,19 +183,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "base/0_course/笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "笔记 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +210,14 @@
   },
   "active": "aece0614b017ddcb",
   "lastOpenFiles": [
-    "base/0_course/lecture notes/base.md",
     "base/0_course/笔记.md",
+    "base/0_course/lecture notes/base.md",
+    "0-attachement/Pasted image 20250403140847.png",
+    "0-attachement/Pasted image 20250403140816.png",
+    "0-attachement/Pasted image 20250403140639.png",
+    "0-attachement/Pasted image 20250403140627.png",
+    "0-attachement/Pasted image 20250403140625.png",
+    "0-attachement/Pasted image 20250403135919.png",
     "base/0_course/lecture notes",
     "base/0_course",
     "0-attachement/Pasted image 20250403133640.png",
